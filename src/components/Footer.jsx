@@ -87,7 +87,7 @@ const Footer = () => {
             </div>
 
             <div className="footer__bottom">
-                <p className="copyright"> &copy; 2024 Hopstop. Minden jog fenntartva. </p>
+                <p className="copyright"> &copy; 2024 Evara. Minden jog fenntartva. </p>
             </div>
         </footer>
     );

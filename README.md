@@ -1,4 +1,4 @@
-©Hopstop
+©Evara
 
 Témavezető:
 
@@ -11,7 +11,7 @@ Készítette:
 
 Nyíregyháza 4400      
 Szabolcs-Szatmár-Bereg        
-@2024 Hopstop. Minden jog fenntartva.
+@2024 Evara. Minden jog fenntartva.
 
 <br />                         
 
@@ -24,7 +24,7 @@ Használati útmutató:
       Ezután a MySQL Admin gombját válasszuk.
 
     • A phpMyAdmin-ba importáljuk be az alábbi elérési útvonalon 
-      található adatbázist - backend/ src/ database/ hopstop.sql
+      található adatbázist - backend/ src/ database/ evara.sql
 
     • Visual Studio Code-ban a Terminal megnyitásával és az " npm –i " paranccsal telepítsük fel 
       az összes szükséges modult. Ezután az " npm start " paranccsal indítsuk el az alkalmazást
