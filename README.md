@@ -7,7 +7,7 @@ Témavezető:
 
 Készítette:
 
-    • Holovacki Román
+    • Molnár Áron
 
 Nyíregyháza 4400      
 Szabolcs-Szatmár-Bereg        

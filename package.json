@@ -1,8 +1,8 @@
 {
-  "name": "hopstop",
+  "name": "evara",
   "version": "0.1.0",
   "homepage": "https://blade1201.github.io/Evara",
-  "author": "Holovacki Román (Blade1201)",
+  "author": "Molnár Áron (Blade1201)",
   "license": "ISC",
   "dependencies": {
     "@flaticon/flaticon-uicons": "^2.0.1",
