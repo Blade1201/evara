@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Evara/static/css/main.bb1c7c8c.css",
-    "main.js": "/Evara/static/js/main.59d1a012.js",
+    "main.js": "/Evara/static/js/main.b5dccbe7.js",
     "static/media/uicons-regular-rounded-BG3GDTFR.eot": "/Evara/static/media/uicons-regular-rounded-BG3GDTFR.2a361185de096a6e3e99.eot",
     "static/media/uicons-bold-rounded-ZDARGU7R.eot": "/Evara/static/media/uicons-bold-rounded-ZDARGU7R.ac2c608bf183bb6b3390.eot",
     "static/media/uicons-solid-rounded-YIIQLYY7.eot": "/Evara/static/media/uicons-solid-rounded-YIIQLYY7.46f60d555e51ea1b1a10.eot",
@@ -81,12 +81,12 @@
     "static/media/icon-youtube.svg": "/Evara/static/media/icon-youtube.e103aa666ce2fbce5cde7cfead2f8d24.svg",
     "index.html": "/Evara/index.html",
     "static/media/icon-cart.svg": "/Evara/static/media/icon-cart.31d328873b06032e26015295432961d7.svg",
-    "static/media/menu-burger.svg": "/Evara/static/media/menu-burger.230ce7ebac47221f71ff65a4369a1d1e.svg",
+    "static/media/menu-burger.svg": "/Evara/static/media/menu-burger.7e853c0a5ab48acf91c0582f7c6756bf.svg",
     "main.bb1c7c8c.css.map": "/Evara/static/css/main.bb1c7c8c.css.map",
-    "main.59d1a012.js.map": "/Evara/static/js/main.59d1a012.js.map"
+    "main.b5dccbe7.js.map": "/Evara/static/js/main.b5dccbe7.js.map"
   },
   "entrypoints": [
     "static/css/main.bb1c7c8c.css",
-    "static/js/main.59d1a012.js"
+    "static/js/main.b5dccbe7.js"
   ]
 }
